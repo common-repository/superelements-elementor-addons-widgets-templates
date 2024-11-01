@@ -1,0 +1,11 @@
+.se-icon::after {
+  content: "SE";
+  position: absolute;
+  font-size: 12px;
+  right: 5px;
+  top: 5px;
+}
+
+#elementor-panel-state-loading {
+  display: none !important;
+}

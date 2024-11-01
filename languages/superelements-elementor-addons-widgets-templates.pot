@@ -1,0 +1,2739 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Superelements - Elementor addons, widgets & templates\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-20 06:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: superelements-elementor-addons-widgets-templates"
+
+#. 1: Plugin name 2: Elementor
+#: super-elements.php:200
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:151
+msgid "01"
+msgstr ""
+
+#: includes/Admin/CMB2.php:73
+msgid "1"
+msgstr ""
+
+#: includes/Admin/CMB2.php:74
+msgid "2"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:327
+#: includes/Elementor/PricingTabs/PricingTabs.php:359
+#: includes/Elementor/PricingTabs/PricingTabs.php:569
+#: includes/Elementor/PricingTabs/PricingTabs.php:600
+#: includes/Elementor/Pricing/Pricing.php:235
+msgid "29.99/mo"
+msgstr ""
+
+#: includes/Admin/CMB2.php:75
+msgid "3"
+msgstr ""
+
+#: includes/Admin/CMB2.php:76
+msgid "4"
+msgstr ""
+
+#: includes/Admin/CMB2.php:77
+msgid "5"
+msgstr ""
+
+#: includes/Elementor/FancyTitle/FancyTitle.php:126
+msgid "A very good title"
+msgstr ""
+
+#: includes/Traits/ElementorControl/AccordionTraits.php:48
+#: includes/Elementor/Accordions/Accordions.php:63
+msgid "Accordion"
+msgstr ""
+
+#: includes/Elementor/Accordions/Accordions.php:132
+msgid "Accordion Settings"
+msgstr ""
+
+#: includes/Elementor/Accordions/Accordions.php:147
+msgid "Accordions"
+msgstr ""
+
+#: includes/Elementor/MyAccount/MyAccount.php:155
+msgid "Account Content"
+msgstr ""
+
+#: includes/Elementor/MyAccount/MyAccount.php:134
+#: includes/Elementor/PricingTabs/PricingTabs.php:687
+#: includes/Elementor/ProductTabs/ProductTabs.php:197
+#: includes/Elementor/Tab/Tab.php:255 includes/Elementor/Tab/Tab.php:328
+#: includes/Elementor/Tab/Tab.php:514
+#: includes/Elementor/WooCommerceBreadcrumbs/WooCommerceBreadcrumbs.php:112
+msgid "Active"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:409
+#: includes/Modules/AnimatedImage/AnimatedImage.php:264
+msgid "Add Animated Image"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:149
+msgid "Add button text"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:393
+msgid "Add Point"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:61
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:131
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/Elementor/AddToCart/view.php:28
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:560
+msgid "Add to cart"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:125
+msgid "Add to Cart / Counter"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:353
+#: includes/Elementor/Notice/Notice.php:350
+msgid "Add To Cart Button"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:183
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:38
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: includes/Elementor/AdditionalInformation/AdditionalInformation.php:58
+msgid "Additional Information"
+msgstr ""
+
+#: includes/Elementor/AdditionalInformation/view.php:11
+#: includes/Elementor/AdditionalInformation/view.php:19
+#: includes/Elementor/ProductTabs/ProductTabs.php:393
+msgid "Additional information"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:134
+msgid "After"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:265
+#: includes/Elementor/Tab/Tab.php:165 includes/Elementor/Menu/Menu.php:263
+msgid "AlignMent"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:81
+#: includes/Traits/ElementorControl/ButtonTraits.php:76
+#: includes/Elementor/IconBox/IconBox.php:326
+#: includes/Elementor/IconBox/IconBox.php:427
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:141
+msgid "Alignment"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:200
+msgid "All Post Button Link"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:184
+msgid "All post Button Text "
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:136
+msgid "All Tutorials"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:165
+msgid "Allow Order"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:125
+msgid "and"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:59
+#: includes/Modules/AnimatedImage/AnimatedImage.php:33
+msgid "Animated Image"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:177
+#: includes/Modules/AnimatedImage/AnimatedImage.php:40
+msgid "Animation Name"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:382
+#: includes/Modules/AnimatedImage/AnimatedImage.php:175
+msgid "Animation Type"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:115
+msgid "Animations"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:336
+#: includes/Elementor/PricingTabs/PricingTabs.php:577
+msgid "Annual Plan"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:131
+msgid "API"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:105
+#: includes/Elementor/Posts/Posts.php:297
+msgid "ASC"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:140
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:143
+msgid "Audience Id"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:275
+msgid "Author"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:334
+msgid "Author Image Style"
+msgstr ""
+
+#: includes/Admin/CMB2.php:63
+msgid "Author Meta"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:370
+msgid "Author Meta Style"
+msgstr ""
+
+#: includes/Admin/CMB2.php:57
+msgid "Author Name"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:352
+msgid "Author Name Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/SliderTaits.php:47
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:344
+msgid "Autoplay speed"
+msgstr ""
+
+#: includes/Elementor/ProductImage/ProductImage.php:155
+msgid "Awaiting product image"
+msgstr ""
+
+#: includes/Templates/views/template-library-header.php:14
+msgid "Back to Library"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ColorTraits.php:38
+#: includes/Elementor/MiniCart/MiniCart.php:315
+#: includes/Elementor/MiniCart/MiniCart.php:350
+#: includes/Elementor/MiniCart/MiniCart.php:460
+#: includes/Elementor/MiniCart/MiniCart.php:517
+#: includes/Elementor/MiniCart/MiniCart.php:728
+#: includes/Elementor/MiniCart/MiniCart.php:759
+msgid "Background Color"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:129
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:413
+msgid "Background Image"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:152
+#: includes/Elementor/PricingTabs/PricingTabs.php:398
+#: includes/Elementor/Pricing/Pricing.php:122
+msgid "Batch Title"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:133
+msgid "Before"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:158
+msgid "Blend Mode"
+msgstr ""
+
+#: includes/Templates/TemplatesInit.php:74
+msgid "Blocks"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:338
+#: includes/Elementor/MiniCart/MiniCart.php:361
+msgid "Border Color"
+msgstr ""
+
+#: includes/Traits/ElementorControl/BorderTraits.php:32
+#: includes/Traits/ElementorControl/BorderTraits.php:52
+#: includes/Traits/ElementorControl/ButtonTraits.php:382
+#: includes/Elementor/MiniCart/MiniCart.php:418
+#: includes/Elementor/MiniCart/MiniCart.php:795
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:589
+msgid "Border Radius"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:222
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:253
+#: includes/Modules/AnimatedImage/AnimatedImage.php:85
+msgid "Bottom"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:345
+#: includes/Elementor/Tab/Tab.php:394
+msgid "Bottom Position"
+msgstr ""
+
+#: includes/Elementor/Products/Products.php:245
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:314
+#: includes/Elementor/IconBox/IconBox.php:277
+#: includes/Elementor/IconBox/IconBox.php:630
+#: includes/Elementor/Button/Button.php:54
+#: includes/Elementor/Button/Button.php:112
+#: includes/Elementor/Button/Button.php:123
+#: includes/Elementor/Menu/Menu.php:136 includes/Elementor/Menu/Menu.php:326
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:179
+msgid "Button"
+msgstr ""
+
+#: includes/Elementor/Pricing/Pricing.php:224
+msgid "Button Before Text"
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:174
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:178
+msgid "Button Icon"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:174
+msgid "Button ID"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:149
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:182
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:181
+msgid "Button Style"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:161
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:164
+#: includes/Elementor/PricingTabs/PricingTabs.php:268
+#: includes/Elementor/PricingTabs/PricingTabs.php:534
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:129
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:177
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:180
+msgid "Button Text"
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:200
+msgid "Button Web Effects"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:165
+msgid "Buttons"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:41
+msgid "By Category"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:56
+msgid "By Tag"
+msgstr ""
+
+#: includes/Templates/TemplateApi.php:130
+msgid "Cannot delete template from a se elementor addons library"
+msgstr ""
+
+#: includes/Templates/TemplateApi.php:134
+msgid "Cannot export template from a se elementor addons library"
+msgstr ""
+
+#: includes/Templates/TemplateApi.php:121
+msgid "Cannot save template to a se elementor addons library"
+msgstr ""
+
+#: includes/Templates/TemplateApi.php:125
+msgid "Cannot update template to a se elementor addons library"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:363
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:202
+#: includes/Elementor/IconBox/IconBox.php:292
+msgid "Card"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:406
+msgid "Card Footer"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:386
+msgid "Card Image"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:483
+msgid "Card Meta"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:251
+#: includes/Elementor/Testimonial/Testimonial.php:183
+#: includes/Elementor/Timeline/Timeline.php:174
+msgid "Card Style"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:426
+msgid "Card Title"
+msgstr ""
+
+#: includes/Traits/ElementorControl/RepeaterTraits.php:82
+msgid "Cards"
+msgstr ""
+
+#: includes/Elementor/Cart/Cart.php:65
+msgid "Cart"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:690
+#: includes/Elementor/Cart/Cart.php:157
+msgid "Cart Buttons"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:486
+msgid "Cart Container"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:545
+msgid "Cart Header"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:136
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:117
+msgid "Cart Icon Type"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:151
+msgid "Cart Image"
+msgstr ""
+
+#: includes/Elementor/Cart/Cart.php:116
+msgid "Cart Table"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:201
+msgid "Category:"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:89
+#: includes/Traits/ElementorControl/ButtonTraits.php:84
+#: includes/Traits/ElementorControl/TextTraits.php:49
+#: includes/Elementor/IconBox/IconBox.php:334
+#: includes/Elementor/IconBox/IconBox.php:435
+#: includes/Elementor/Tab/Tab.php:173
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:149
+#: includes/Elementor/Timeline/Timeline.php:216
+msgid "Center"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:156
+msgid "CEO and Founder"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:62
+msgid "CheckOut"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:135
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:118
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:185
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:207
+#: includes/Modules/AnimatedImage/AnimatedImage.php:48
+msgid "Choose Image"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:512
+msgid "Classic Post"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:599
+msgid "Classic Post Description"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:556
+msgid "Classic Post Footer"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:535
+msgid "Classic Post Image"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:621
+msgid "Classic Post Link"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:577
+msgid "Classic Post Title"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:533
+msgid "Click"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:16
+msgid "Click here"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:580
+msgid "Close Icon"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ColorTraits.php:17
+#: includes/Traits/ElementorControl/HeadingTraits.php:119
+#: includes/Traits/ElementorControl/HeadingTraits.php:169
+#: includes/Elementor/MiniCart/MiniCart.php:300
+#: includes/Elementor/MiniCart/MiniCart.php:335
+#: includes/Elementor/MiniCart/MiniCart.php:449
+#: includes/Elementor/MiniCart/MiniCart.php:569
+#: includes/Elementor/MiniCart/MiniCart.php:617
+#: includes/Elementor/MiniCart/MiniCart.php:676
+#: includes/Elementor/MiniCart/MiniCart.php:717
+#: includes/Elementor/MiniCart/MiniCart.php:748
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:616
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:641
+msgid "Color"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:167
+msgid "Color Dodge"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:138
+#: includes/Elementor/Notice/Notice.php:135
+msgid "Column"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:129
+#: includes/Elementor/Products/Products.php:164
+msgid "Columns"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:90
+msgid "Comment Count"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:338
+msgid "Comment Description Style"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:321
+msgid "Comment Meta Style"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:259
+msgid "Comment Reply "
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:304
+msgid "Comment Text Container Style"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:159
+#: includes/Elementor/Timeline/Timeline.php:141
+msgid "Completes all the work associated with planning and processing"
+msgstr ""
+
+#: includes/Traits/ElementorControl/RepeaterTraits.php:95
+msgid "Contact"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:63
+msgid "Contact Form"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:145
+msgid "Contact Form Settings"
+msgstr ""
+
+#: includes/Elementor/Products/Products.php:156
+#: includes/Elementor/FancyTitle/FancyTitle.php:173
+msgid "Container"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:810
+msgid "Container Padding"
+msgstr ""
+
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:111
+msgid "Container Style"
+msgstr ""
+
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:112
+msgid "Container Title Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/AccordionTraits.php:37
+#: includes/Traits/ElementorControl/RepeaterTraits.php:27
+#: includes/Elementor/Accordions/Accordions.php:204
+#: includes/Elementor/IconBox/IconBox.php:157
+#: includes/Elementor/IconBox/IconBox.php:400
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:133
+#: includes/Elementor/PricingTabs/PricingTabs.php:232
+#: includes/Elementor/PricingTabs/PricingTabs.php:476
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:122
+#: includes/Elementor/ProductsCategories/ProductCategories.php:118
+#: includes/Elementor/Timeline/Timeline.php:139
+#: includes/Elementor/Pricing/Pricing.php:200
+msgid "Content"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:193
+msgid "Content Icon"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:140
+msgid "Content Type"
+msgstr ""
+
+#: includes/Elementor/Accordions/Accordions.php:186
+msgid "Content Wrapper"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:63
+msgid "Custom Add To Cart"
+msgstr ""
+
+#: includes/Elementor/ProductRating/ProductRating.php:166
+msgid "customer review"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:36
+msgid "Danger"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:165
+msgid "Darken"
+msgstr ""
+
+#: includes/Admin/Menu.php:36 includes/Admin/views/dashboard.php:15
+msgid "Dashboard"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:86
+#: includes/Elementor/Posts/Posts.php:277
+msgid "Date"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:201
+msgid "Decor"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:32
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:386
+#: includes/Elementor/Testimonial/Testimonial.php:146
+#: includes/Modules/AnimatedImage/AnimatedImage.php:179
+msgid "Default"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:235
+msgid "Default description"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:109
+msgid "Default Settings"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:167
+msgid "Default title"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:106
+#: includes/Elementor/Posts/Posts.php:298
+msgid "DESC"
+msgstr ""
+
+#: includes/Elementor/FancyTitle/FancyTitle.php:156
+#: includes/Elementor/FancyTitle/FancyTitle.php:225
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:245
+#: includes/Elementor/IconBox/IconBox.php:613
+#: includes/Elementor/ProductTabs/ProductTabs.php:388
+#: includes/Elementor/ProductTabs/ProductTabs.php:403
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:232
+msgid "Description"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:251
+msgid "Description "
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:530
+msgid "Description Color"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:359
+#: includes/Elementor/Testimonial/Testimonial.php:317
+#: includes/Elementor/Timeline/Timeline.php:291
+msgid "Description Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:170
+msgid "Difference"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:130
+#: includes/Elementor/Notice/Notice.php:127
+msgid "Direction"
+msgstr ""
+
+#: includes/Traits/ElementorControl/LinkTraits.php:24
+#: includes/Traits/ElementorControl/SliderTaits.php:38
+#: includes/Traits/ElementorControl/SliderTaits.php:64
+#: includes/Elementor/Posts/Posts.php:332
+#: includes/Elementor/Testimonial/Testimonial.php:157
+#: includes/Elementor/Testimonial/Testimonial.php:168
+msgid "Disable"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:49
+msgid "Disable All"
+msgstr ""
+
+#: includes/Generator.php:53
+msgid "Display"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:67 includes/Admin/views/dashboard.php:74
+msgid "Documentation"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:164
+msgid "Don't Forget to Rate"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:391
+#: includes/Modules/AnimatedImage/AnimatedImage.php:184
+msgid "Double"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:68
+msgid "Easy documentation"
+msgstr ""
+
+#: super-elements.php:202
+msgid "Elementor"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:165
+msgid "Empty Cart Settings"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:173
+msgid "Empty Image"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:181
+msgid "Empty Text"
+msgstr ""
+
+#: includes/Traits/ElementorControl/LinkTraits.php:23
+#: includes/Traits/ElementorControl/SliderTaits.php:37
+#: includes/Traits/ElementorControl/SliderTaits.php:63
+#: includes/Elementor/Posts/Posts.php:331
+#: includes/Elementor/Testimonial/Testimonial.php:156
+#: includes/Elementor/Testimonial/Testimonial.php:167
+msgid "Enable"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:35
+msgid "Enable All"
+msgstr ""
+
+#: includes/Traits/ElementorControl/SliderTaits.php:35
+msgid "Enable Autoplay"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:329
+msgid "Enable autoplay"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:263
+msgid "Enable Button"
+msgstr ""
+
+#: includes/Traits/ElementorControl/LinkTraits.php:21
+msgid "Enable Link"
+msgstr ""
+
+#: includes/Traits/ElementorControl/SliderTaits.php:59
+msgid "Enable Navigation"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:164
+msgid "Enable Social Link"
+msgstr ""
+
+#: includes/Traits/ElementorControl/TextTraits.php:53
+msgid "End"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:134
+msgid "Enter API"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:191
+msgid "Enter section text details"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:174
+msgid "Enter section title"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:37
+msgid "Enter your title"
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:142
+msgid "Enter your URL"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:331
+msgid "Error Text"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:171
+msgid "Exclusion"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:533
+msgid "Extra Large"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:529
+msgid "Extra Small"
+msgstr ""
+
+#: includes/Elementor/FancyTitle/FancyTitle.php:58
+msgid "Fancy Title"
+msgstr ""
+
+#: includes/Elementor/FancyTitle/FancyTitle.php:117
+msgid "Fancy Title Settings "
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:33
+msgid "Featured"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:145
+msgid "Features"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:290
+msgid "Field Error Text Style"
+msgstr ""
+
+#: includes/Templates/views/template-library-badge.php:18
+msgid "Filter"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:157
+msgid "Fixed Layout"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:191
+#: includes/Elementor/PricingTabs/PricingTabs.php:435
+#: includes/Elementor/Pricing/Pricing.php:159
+msgid "For Team pack"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:265
+msgid "Form"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:167
+msgid "Form Style"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:377
+msgid "Form Submit Error Style"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:356
+msgid "Form Submit Success Style"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:122
+#: includes/Elementor/Notice/Notice.php:119
+msgid "Form Wrapper"
+msgstr ""
+
+#: includes/Elementor/ProductImage/ProductImage.php:100
+msgid "Gallery Nav Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/SpacingTraits.php:65
+msgid "Gap"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:123
+msgid "General"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:64
+msgid "General Widgets"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:147
+msgid ""
+"Get a new feature or a widget for your website. Or just directly contact "
+"with us. Get a new feature or a widget for your website. Or just directly "
+"contact with us."
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:148
+msgid "Get Started"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:69
+msgid ""
+"Get started with a quick start view of documentation to get familiar with "
+"Super-Element. Build stunning webpages for you or your clients."
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:173
+msgid "Get The Best Of All Hands Delivered To Your Inbox"
+msgstr ""
+
+#: includes/Admin/CMB2.php:39
+msgid "Global Settings"
+msgstr ""
+
+#: includes/Templates/views/template-library-button.php:14
+msgid "Go Pro"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:179
+msgid "Header"
+msgstr ""
+
+#: includes/Admin/CMB2.php:36
+msgid "Header color controls"
+msgstr ""
+
+#: includes/Admin/CMB2.php:34
+msgid "Header Control"
+msgstr ""
+
+#: includes/Admin/CMB2.php:26
+msgid "Header Controls"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:500
+msgid "Heading Color"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:114
+msgid "Headings"
+msgstr ""
+
+#: includes/Traits/ElementorControl/WidthHeightTraits.php:58
+#: includes/Elementor/IconBox/IconBox.php:503
+#: includes/Elementor/MiniCart/MiniCart.php:263
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:358
+#: includes/Modules/AnimatedImage/AnimatedImage.php:154
+msgid "Height"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:143
+#: includes/Elementor/PricingTabs/PricingTabs.php:390
+#: includes/Elementor/Pricing/Pricing.php:114
+#: includes/Modules/AnimatedImage/AnimatedImage.php:201
+#: includes/Modules/AnimatedImage/AnimatedImage.php:212
+#: includes/Modules/AnimatedImage/AnimatedImage.php:223
+#: includes/Modules/AnimatedImage/AnimatedImage.php:234
+#: includes/Modules/AnimatedImage/AnimatedImage.php:245
+#: includes/Modules/AnimatedImage/AnimatedImage.php:256
+msgid "Hide"
+msgstr ""
+
+#: includes/Modules/AnimatedImage/AnimatedImage.php:242
+msgid "Hide On Laptop"
+msgstr ""
+
+#: includes/Modules/AnimatedImage/AnimatedImage.php:209
+msgid "Hide On Mobile Landscape"
+msgstr ""
+
+#: includes/Modules/AnimatedImage/AnimatedImage.php:198
+msgid "Hide On Mobile Portrait"
+msgstr ""
+
+#: includes/Modules/AnimatedImage/AnimatedImage.php:231
+msgid "Hide On Tablet Landscape"
+msgstr ""
+
+#: includes/Modules/AnimatedImage/AnimatedImage.php:220
+msgid "Hide On Tablet Portrait"
+msgstr ""
+
+#: includes/Modules/AnimatedImage/AnimatedImage.php:253
+msgid "Hide On Widescreen"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:301
+#: includes/Elementor/Posts/Posts.php:463
+#: includes/Elementor/Posts/Posts.php:658
+#: includes/Elementor/Posts/Posts.php:792
+#: includes/Elementor/AddToCart/AddToCart.php:298
+#: includes/Elementor/IconBox/IconBox.php:381
+#: includes/Elementor/IconBox/IconBox.php:534
+#: includes/Elementor/MiniCart/MiniCart.php:328
+#: includes/Elementor/MiniCart/MiniCart.php:741
+#: includes/Elementor/PricingTabs/PricingTabs.php:670
+#: includes/Elementor/PricingTabs/PricingTabs.php:895
+#: includes/Elementor/ProductTabs/ProductTabs.php:181
+#: includes/Elementor/Tab/Tab.php:239 includes/Elementor/Tab/Tab.php:311
+#: includes/Elementor/Tab/Tab.php:499 includes/Elementor/Notice/Notice.php:295
+#: includes/Elementor/Team/Team.php:289 includes/Elementor/Team/Team.php:407
+#: includes/Elementor/Menu/Menu.php:306
+#: includes/Elementor/Testimonial/Testimonial.php:218
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:635
+msgid "Hover"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:350
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:63
+msgid "HTML Tag"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://redq.io"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.superelements.io/"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:65
+#: includes/Elementor/Posts/Posts.php:202
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:172
+msgid "Hue"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:116
+#: includes/Traits/ElementorControl/RepeaterTraits.php:41
+#: includes/Elementor/Accordions/Accordions.php:223
+#: includes/Elementor/IconBox/IconBox.php:175
+#: includes/Elementor/IconBox/IconBox.php:208
+#: includes/Elementor/MiniCart/MiniCart.php:121
+#: includes/Elementor/PricingTabs/PricingTabs.php:165
+#: includes/Elementor/PricingTabs/PricingTabs.php:209
+#: includes/Elementor/PricingTabs/PricingTabs.php:277
+#: includes/Elementor/PricingTabs/PricingTabs.php:410
+#: includes/Elementor/PricingTabs/PricingTabs.php:453
+#: includes/Elementor/PricingTabs/PricingTabs.php:511
+#: includes/Elementor/Team/Team.php:186
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:431
+#: includes/Elementor/Pricing/Pricing.php:134
+#: includes/Elementor/Pricing/Pricing.php:177
+#: includes/Elementor/Pricing/Pricing.php:242
+msgid "Icon"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:418
+msgid "Icon / Image"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:802
+msgid "Icon Active Color"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:208
+msgid "Icon Alignment"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:438
+msgid "Icon Background Color"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:70
+msgid "Icon Box"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:245
+msgid "Icon box link"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:133
+msgid "Icon Card Settings"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:796
+msgid "Icon Color"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:129
+#: includes/Elementor/IconBox/IconBox.php:300
+#: includes/Elementor/Timeline/Timeline.php:182
+msgid "Icon Position"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:195
+#: includes/Modules/AnimatedImage/AnimatedImage.php:58
+msgid "Icon Position X"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:213
+#: includes/Modules/AnimatedImage/AnimatedImage.php:76
+msgid "Icon Position Y"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:206
+#: includes/Elementor/MiniCart/MiniCart.php:589
+msgid "Icon Size"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:143
+msgid "Icon Spacing"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:254
+msgid "Icon Style"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:166
+msgid "Icon Type"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:322
+msgid "Icon X Position"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:345
+msgid "Icon Y Position"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:274
+msgid "ID"
+msgstr ""
+
+#: includes/Elementor/Products/Products.php:188
+#: includes/Elementor/IconBox/IconBox.php:179
+#: includes/Elementor/MiniCart/MiniCart.php:125
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:111
+msgid "Image"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:57
+msgid "Image Hotspot"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:324
+msgid "Image Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:33
+msgid "Info"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:118
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:153
+#: includes/Elementor/ProductRating/ProductRating.php:116
+msgid "Inline"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:285
+msgid "Input"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:206
+msgid "Input Style"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:148
+msgid "Inputs"
+msgstr ""
+
+#: includes/Templates/views/template-library-button.php:7
+msgid "Insert"
+msgstr ""
+
+#: includes/Elementor/Posts/fixed_layout.php:14
+msgid "Insert More Than Five Posts In Your Site"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:239
+#: includes/Elementor/PricingTabs/PricingTabs.php:243
+#: includes/Elementor/PricingTabs/PricingTabs.php:247
+#: includes/Elementor/PricingTabs/PricingTabs.php:251
+#: includes/Elementor/PricingTabs/PricingTabs.php:255
+#: includes/Elementor/PricingTabs/PricingTabs.php:259
+#: includes/Elementor/PricingTabs/PricingTabs.php:483
+#: includes/Elementor/PricingTabs/PricingTabs.php:487
+#: includes/Elementor/PricingTabs/PricingTabs.php:491
+#: includes/Elementor/PricingTabs/PricingTabs.php:495
+#: includes/Elementor/PricingTabs/PricingTabs.php:499
+#: includes/Elementor/PricingTabs/PricingTabs.php:503
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:399
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:403
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:97
+#: includes/Traits/ElementorControl/ButtonTraits.php:92
+msgid "Justified"
+msgstr ""
+
+#: includes/Traits/ElementorControl/TextTraits.php:57
+msgid "Justify"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:131
+msgid "Label"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:187
+msgid "Label Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:532
+msgid "Large"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:89
+msgid "Last Modified"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:32
+msgid "Latest Product"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:153
+#: includes/Elementor/Testimonial/Testimonial.php:142
+msgid "Layout"
+msgstr ""
+
+#: includes/Elementor/FancyTitle/FancyTitle.php:143
+#: includes/Elementor/FancyTitle/FancyTitle.php:191
+msgid "Leading Text"
+msgstr ""
+
+#: includes/Elementor/Posts/fixed_layout.php:38
+#: includes/Elementor/Posts/fixed_layout.php:72
+msgid "Learn More"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:85
+#: includes/Traits/ElementorControl/ButtonTraits.php:80
+#: includes/Elementor/ContactForm/ContactForm.php:269
+#: includes/Elementor/IconBox/IconBox.php:305
+#: includes/Elementor/IconBox/IconBox.php:330
+#: includes/Elementor/IconBox/IconBox.php:431
+#: includes/Elementor/Tab/Tab.php:169
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:145
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:200
+#: includes/Elementor/Menu/Menu.php:267
+#: includes/Elementor/Timeline/Timeline.php:186
+#: includes/Elementor/Timeline/Timeline.php:212
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:323
+#: includes/Modules/AnimatedImage/AnimatedImage.php:63
+msgid "Left"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:417
+msgid "Left Position"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:166
+msgid "Lighten"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:47
+#: includes/Traits/ElementorControl/LinkTraits.php:33
+#: includes/Traits/ElementorControl/ButtonTraits.php:60
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:140
+#: includes/Elementor/PricingTabs/PricingTabs.php:310
+#: includes/Elementor/PricingTabs/PricingTabs.php:342
+#: includes/Elementor/PricingTabs/PricingTabs.php:552
+#: includes/Elementor/PricingTabs/PricingTabs.php:583
+#: includes/Elementor/Team/Team.php:197 includes/Elementor/Menu/Menu.php:95
+#: includes/Elementor/Menu/Menu.php:156
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:189
+#: includes/Elementor/Pricing/Pricing.php:209
+msgid "Link"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:170
+msgid "Link Color"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:163
+msgid "Link Typography"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:212
+msgid "List"
+msgstr ""
+
+#: includes/Templates/views/template-library-preview.php:12
+msgid "Live Preview"
+msgstr ""
+
+#: includes/Templates/views/template-library-loader.php:14
+msgid "Loading Supper"
+msgstr ""
+
+#: includes/Admin/CMB2.php:40
+msgid "Local Settings"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:82 includes/Elementor/Menu/Menu.php:232
+msgid "Logo"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:532
+msgid "Loop (infinite)"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:535
+msgid "Loop on Hover"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:183
+msgid "Lord Icon"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:222
+#: includes/Elementor/IconBox/IconBox.php:224
+msgid "lord Icon"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:36
+msgid ""
+"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum assumenda "
+"voluptates accusantium deleniti esse illum, a facere quisquam officiis "
+"numquam."
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:163
+msgid "Love Our Features"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:173
+msgid "Luminosity"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:124
+msgid "Mailchimp API"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:34
+msgid "Manual Selection"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:409
+#: includes/Traits/ElementorControl/SpacingTraits.php:45
+#: includes/Elementor/MiniCart/MiniCart.php:384
+#: includes/Elementor/MiniCart/MiniCart.php:471
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:519
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:548
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:567
+msgid "Margin"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:154
+#: includes/Elementor/AddToCart/AddToCart.php:215
+#: includes/Elementor/MiniCart/MiniCart.php:494
+#: includes/Elementor/Notice/Notice.php:151
+#: includes/Elementor/Notice/Notice.php:212
+msgid "Max Width"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:531
+msgid "Medium"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:346
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:33 includes/Elementor/Menu/Menu.php:64
+msgid "Menu"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:88
+#: includes/Elementor/Posts/Posts.php:280
+msgid "Menu Order"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:279
+msgid "Meta Value"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:278
+msgid "Meta Value Num "
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:49
+msgid "Mini Cart"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:433
+msgid "Mini Cart Counter"
+msgstr ""
+
+#: includes/Elementor/MiniCart/view.php:49
+msgid "mini cart empty image"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:198
+msgid "Mini Cart Icon"
+msgstr ""
+
+#: includes/Elementor/MiniCart/view.php:23
+msgid "mini-cart-icon"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:679
+msgid "Modern Post"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:712
+msgid "Modern Post Title"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:132
+#: includes/Elementor/PricingTabs/PricingTabs.php:304
+#: includes/Elementor/PricingTabs/PricingTabs.php:546
+msgid "Monthly Plan"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:536
+msgid "Morph"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:537
+msgid "Morph two way"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:162
+msgid "Multiply"
+msgstr ""
+
+#: includes/Elementor/MyAccount/MyAccount.php:54
+msgid "My Account"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:145 includes/Elementor/Team/Team.php:148
+msgid "Name"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:250
+msgid "Navigation"
+msgstr ""
+
+#: includes/Elementor/MyAccount/MyAccount.php:106
+msgid "Navigation Page"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:224
+#: includes/Elementor/IconBox/IconBox.php:237
+#: includes/Elementor/IconBox/IconBox.php:266
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:203
+#: includes/Elementor/Team/Team.php:167
+msgid "No"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:114
+msgid "no"
+msgstr ""
+
+#: includes/Elementor/Menu/view.php:71
+msgid "NO MENU ITEMS FOUND"
+msgstr ""
+
+#: includes/Elementor/Posts/slider.php:5
+#: includes/Elementor/Posts/fixed_layout.php:7
+#: includes/Elementor/Posts/grid.php:6
+msgid "No posts found"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:183
+msgid "No products found."
+msgstr ""
+
+#: includes/Templates/TemplatesInit.php:45
+msgid "No Results Found"
+msgstr ""
+
+#: includes/Templates/TemplatesInit.php:43
+msgid "No Templates Found"
+msgstr ""
+
+#: includes/Elementor/Testimonial/styled-box.php:8
+#: includes/Elementor/Testimonial/default.php:8
+msgid "NO TESTIMONIALS FOUND IN YOUR SITE"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:273
+#: includes/Elementor/IconBox/IconBox.php:171
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:387
+#: includes/Modules/AnimatedImage/AnimatedImage.php:180
+msgid "None"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:161
+#: includes/Traits/ElementorControl/ButtonTraits.php:253
+#: includes/Elementor/MyAccount/MyAccount.php:122
+#: includes/Elementor/Posts/Posts.php:448
+#: includes/Elementor/Posts/Posts.php:643
+#: includes/Elementor/Posts/Posts.php:777
+#: includes/Elementor/AddToCart/AddToCart.php:282
+#: includes/Elementor/IconBox/IconBox.php:365
+#: includes/Elementor/MiniCart/MiniCart.php:293
+#: includes/Elementor/MiniCart/MiniCart.php:710
+#: includes/Elementor/PricingTabs/PricingTabs.php:653
+#: includes/Elementor/PricingTabs/PricingTabs.php:880
+#: includes/Elementor/ProductTabs/ProductTabs.php:165
+#: includes/Elementor/Tab/Tab.php:219 includes/Elementor/Tab/Tab.php:294
+#: includes/Elementor/Tab/Tab.php:484 includes/Elementor/Notice/Notice.php:279
+#: includes/Elementor/Team/Team.php:273 includes/Elementor/Team/Team.php:391
+#: includes/Elementor/Menu/Menu.php:191 includes/Elementor/Menu/Menu.php:290
+#: includes/Elementor/Testimonial/Testimonial.php:202
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:610
+msgid "Normal"
+msgstr ""
+
+#: includes/Elementor/Notice/Notice.php:61
+msgid "Notice"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:314
+msgid "Numbel of slide"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:251
+msgid "Number of Post"
+msgstr ""
+
+#: includes/Traits/ElementorControl/SliderTaits.php:23
+msgid "Number Of Slides"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:170 includes/Elementor/Menu/Menu.php:125
+msgid "Off"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:169 includes/Elementor/Menu/Menu.php:124
+msgid "On"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:101
+msgid "Order"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:82
+#: includes/Elementor/Posts/Posts.php:269
+#: includes/Elementor/Posts/Posts.php:293
+msgid "Order By"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:164
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:152
+msgid "Overlay"
+msgstr ""
+
+#: includes/Traits/ElementorControl/RepeaterTraits.php:19
+#: includes/Traits/ElementorControl/RepeaterTraits.php:87
+msgid "Overview"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:395
+#: includes/Traits/ElementorControl/SpacingTraits.php:18
+#: includes/Elementor/MiniCart/MiniCart.php:397
+#: includes/Elementor/MiniCart/MiniCart.php:530
+#: includes/Elementor/MiniCart/MiniCart.php:637
+#: includes/Elementor/MiniCart/MiniCart.php:774
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:481
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:578
+msgid "Padding"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:157
+msgid "Pagination"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:404
+msgid ""
+"Pellentesque habitant morbi tristique senectus et netus et malesuada fames "
+"ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, "
+"tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean "
+"ultricies mi vitae est. Mauris placerat eleifend leo."
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:448
+msgid "Ping Background Color"
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:234
+msgid "Play Button"
+msgstr ""
+
+#: includes/Templates/TemplatesInit.php:46
+msgid ""
+"Please make sure your search is spelled correctly or try a different words."
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:717
+#: includes/Elementor/ImageHotspot/template/product-none.php:9
+msgid "Please Select A Product"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:469
+msgid "Popup"
+msgstr ""
+
+#: super-elements.php:66
+msgid "Portfolio"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:154 includes/Elementor/Team/Team.php:157
+msgid "Position"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:64
+msgid "Post"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:146
+msgid "Post Grid Settings"
+msgstr ""
+
+#: includes/Templates/TemplateImport.php:31
+msgid "Post not found"
+msgstr ""
+
+#: includes/Templates/load.php:41
+msgid "Post not found."
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:154
+msgid "Poster Image"
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:164
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:266
+msgid "Poster Image Background"
+msgstr ""
+
+#: includes/Elementor/Products/Products.php:227
+#: includes/Elementor/PricingTabs/PricingTabs.php:325
+#: includes/Elementor/PricingTabs/PricingTabs.php:357
+#: includes/Elementor/PricingTabs/PricingTabs.php:567
+#: includes/Elementor/PricingTabs/PricingTabs.php:598
+#: includes/Elementor/Pricing/Pricing.php:233
+msgid "Price"
+msgstr ""
+
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:144
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:143
+msgid "Price "
+msgstr ""
+
+#: includes/Elementor/Pricing/Pricing.php:47
+msgid "Pricing"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:709
+msgid "Pricing Card"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:821
+msgid "Pricing Card Footer"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:839
+msgid "Pricing Card Footer TypoGraphy"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:748
+msgid "Pricing Card Icon"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:784
+msgid "Pricing Card List"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:766
+msgid "Pricing Card Title"
+msgstr ""
+
+#: includes/Elementor/Pricing/Pricing.php:103
+msgid "Pricing Plan"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:58
+msgid "Pricing Tabs"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:123
+msgid "Pricing Tabs Feature 1"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:370
+msgid "Pricing Tabs Feature 2"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:728
+msgid "Pricing Tag"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:189
+#: includes/Elementor/PricingTabs/PricingTabs.php:433
+#: includes/Elementor/Pricing/Pricing.php:157
+msgid "Pricing Title"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:125
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/Templates/views/template-library-toolbar.php:11
+msgid "Pro"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:145
+msgid "Product"
+msgstr ""
+
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:129
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:128
+msgid "Product Card Style"
+msgstr ""
+
+#: includes/Elementor/ProductsCategories/ProductCategories.php:58
+msgid "Product Category"
+msgstr ""
+
+#: includes/Elementor/ProductImage/ProductImage.php:49
+msgid "Product Image"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:57
+msgid "Product Meta"
+msgstr ""
+
+#: includes/Elementor/ProductPrice/ProductPrice.php:52
+msgid "Product Price"
+msgstr ""
+
+#: includes/Elementor/ProductRating/ProductRating.php:55
+msgid "Product Rating"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:123
+msgid "Product Settings"
+msgstr ""
+
+#: includes/Elementor/ProductShortDescriptions/ProductShortDescriptions.php:51
+msgid "Product Short Descriptions"
+msgstr ""
+
+#: includes/Elementor/ProductStock/ProductStock.php:53
+msgid "Product Stock"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:61
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/Elementor/ProductTitle/ProductTitle.php:51
+msgid "Product Title"
+msgstr ""
+
+#: includes/Elementor/ProductTitle/ProductTitle.php:102
+msgid "Product Title Settings"
+msgstr ""
+
+#: includes/Elementor/ProductTitle/ProductTitle.php:119
+msgid "Product Title Style"
+msgstr ""
+
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:60
+msgid "Product Upsells"
+msgstr ""
+
+#: includes/Elementor/Products/Products.php:67
+msgid "Products"
+msgstr ""
+
+#: includes/Generator.php:54
+msgid "Published"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:148
+msgid "Quantity"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:319
+#: includes/Elementor/Notice/Notice.php:316
+msgid "Quantity Button Left"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:336
+#: includes/Elementor/Notice/Notice.php:333
+msgid "Quantity Button Right"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:263
+#: includes/Elementor/Notice/Notice.php:260
+msgid "Quantity Buttons"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:243
+#: includes/Elementor/Notice/Notice.php:240
+msgid "Quantity Input"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:206
+#: includes/Elementor/Notice/Notice.php:203
+msgid "Quantity Wrapper"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:21
+msgid "Query"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:221
+msgid "Query By Category?"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:91
+msgid "Random"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:169
+msgid "Rate Now"
+msgstr ""
+
+#: includes/Admin/CMB2.php:69
+msgid "Rating"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:263
+msgid "Rating Style"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:187
+msgid "Read More "
+msgstr ""
+
+#: includes/Templates/TemplatesInit.php:75
+msgid "Ready Pages"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:154
+#: includes/Elementor/PricingTabs/PricingTabs.php:400
+#: includes/Elementor/Pricing/Pricing.php:124
+msgid "Recommended"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:195
+#: includes/Elementor/Menu/Menu.php:84
+#: includes/Elementor/Timeline/Timeline.php:160
+msgid "Recommended Size:70x70)"
+msgstr ""
+
+#. Author of the plugin
+msgid "RedQTeam"
+msgstr ""
+
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:59
+msgid "Related Products"
+msgstr ""
+
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:215
+msgid "Related products"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:146
+#: includes/Admin/views/dashboard.php:152
+msgid "Request Features"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:270
+msgid "Review Item Style"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:355
+msgid "Review Submit Button"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:287
+msgid "Review User Style"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:398
+msgid "Reviews (1)"
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:93
+#: includes/Traits/ElementorControl/ButtonTraits.php:88
+#: includes/Elementor/ContactForm/ContactForm.php:273
+#: includes/Elementor/IconBox/IconBox.php:313
+#: includes/Elementor/IconBox/IconBox.php:338
+#: includes/Elementor/IconBox/IconBox.php:439
+#: includes/Elementor/Tab/Tab.php:177
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:153
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:204
+#: includes/Elementor/Menu/Menu.php:271
+#: includes/Elementor/Timeline/Timeline.php:194
+#: includes/Elementor/Timeline/Timeline.php:220
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:327
+#: includes/Modules/AnimatedImage/AnimatedImage.php:67
+msgid "Right"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:371
+msgid "Right Position"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:134
+#: includes/Elementor/Notice/Notice.php:131
+msgid "Row"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:143
+msgid "Rows"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:147
+msgid "Saimon Harmer"
+msgstr ""
+
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:163
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:162
+msgid "Sale Badge Style"
+msgstr ""
+
+#: includes/Traits/ElementorControl/AccordionTraits.php:39
+#: includes/Traits/ElementorControl/AccordionTraits.php:54
+#: includes/Traits/ElementorControl/RepeaterTraits.php:29
+#: includes/Traits/ElementorControl/RepeaterTraits.php:88
+#: includes/Traits/ElementorControl/RepeaterTraits.php:92
+#: includes/Traits/ElementorControl/RepeaterTraits.php:96
+msgid ""
+"Sample ordering is on ‘first-come-first-served’ basis. To ensure that you "
+"get your desired samples, it is recommended that you make your payment "
+"within 60 minutes of checking out."
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:168
+msgid "Saturation"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:53
+msgid "Save Changes"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:14
+msgid "Saved Changes Successfully."
+msgstr ""
+
+#: includes/Traits/ElementorControl/HeadingTraits.php:163
+msgid "Screen"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:209
+msgid "Scroll"
+msgstr ""
+
+#: includes/Templates/views/template-library-badge.php:8
+msgid "Search"
+msgstr ""
+
+#: includes/Templates/views/template-library-badge.php:7
+msgid "Search Templates:"
+msgstr ""
+
+#: includes/Traits/ElementorControl/SelectTraits.php:16
+msgid "Select"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:153
+msgid "Select Form"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:71
+msgid "Select Menu"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:70
+msgid "Select Prodcut"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:137
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:152
+msgid "Select Product"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:169
+msgid "Select Variations"
+msgstr ""
+
+#: super-elements.php:65
+msgid "Settings"
+msgstr ""
+
+#: includes/Elementor/MiniCart/view.php:33
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:188
+msgid "Short Message"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:85
+msgid "Short videos tutorials with good explanation."
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:142
+#: includes/Elementor/PricingTabs/PricingTabs.php:389
+#: includes/Elementor/Pricing/Pricing.php:113
+#: includes/Modules/AnimatedImage/AnimatedImage.php:200
+#: includes/Modules/AnimatedImage/AnimatedImage.php:211
+#: includes/Modules/AnimatedImage/AnimatedImage.php:222
+#: includes/Modules/AnimatedImage/AnimatedImage.php:233
+#: includes/Modules/AnimatedImage/AnimatedImage.php:244
+#: includes/Modules/AnimatedImage/AnimatedImage.php:255
+msgid "Show"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:167
+msgid "Show All Post Button"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:140
+#: includes/Elementor/PricingTabs/PricingTabs.php:387
+#: includes/Elementor/Pricing/Pricing.php:111
+msgid "Show Batch"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:122
+msgid "Show Button"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:236
+msgid "Show Elements"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:154
+msgid "Show Rating"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:176
+msgid "Show Result Count"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:165
+msgid "Show Title"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:158
+msgid "Show Variations"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:105
+msgid "Size"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:200
+msgid "SKU:"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:95
+msgid "Slider / Carousel"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:239
+msgid "Slider Box"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:158
+msgid "Slider View"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:530
+msgid "Small"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:377
+msgid "Social Icon Style"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:176
+msgid "Social Link"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:15
+msgid "Something Went Wrong."
+msgstr ""
+
+#: includes/Ajax.php:58
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:28
+msgid "Source"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:388
+#: includes/Modules/AnimatedImage/AnimatedImage.php:181
+msgid "Spin"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:119
+#: includes/Elementor/ProductRating/ProductRating.php:117
+msgid "Stacked"
+msgstr ""
+
+#: includes/Elementor/ProductRating/ProductRating.php:132
+msgid "Star "
+msgstr ""
+
+#: includes/Traits/ElementorControl/TextTraits.php:45
+msgid "Start"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:270
+#: includes/Elementor/PricingTabs/PricingTabs.php:536
+#: includes/Elementor/Pricing/Pricing.php:226
+msgid "Starting from"
+msgstr ""
+
+#: includes/Elementor/Menu/Menu.php:111
+msgid "Sticky Menu?"
+msgstr ""
+
+#: includes/Elementor/AddToCart/AddToCart.php:188
+#: includes/Elementor/Notice/Notice.php:185
+msgid "Stock Text Style"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:109
+#: includes/Elementor/ProductPrice/ProductPrice.php:100
+#: includes/Elementor/WooCommerceBreadcrumbs/WooCommerceBreadcrumbs.php:99
+#: includes/Elementor/ProductShortDescriptions/ProductShortDescriptions.php:97
+#: includes/Elementor/ProductRating/ProductRating.php:107
+#: includes/Elementor/ProductStock/ProductStock.php:101
+msgid "Style"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:147
+msgid "Styled Box"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:252
+msgid "Submit Button Style"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:163
+msgid "Subscribe"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:190
+msgid "Subscribe to our newsletter and stay updated."
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:63
+msgid "Subscription Form"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:115
+msgid "Subscription Form Settings"
+msgstr ""
+
+#: includes/Ajax.php:139
+msgid "Subscription successful"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:34
+msgid "Success"
+msgstr ""
+
+#: includes/Ajax.php:73
+msgid "Successfully Saved."
+msgstr ""
+
+#: includes/Generator.php:57
+msgid "Super builder"
+msgstr ""
+
+#: includes/Generator.php:58
+msgid "Super builders"
+msgstr ""
+
+#: includes/Admin/Menu.php:35 includes/Admin/views/dashboard.php:18
+#: includes/Admin/views/dashboard.php:164
+msgid "Super Element"
+msgstr ""
+
+#: includes/Admin/Menu.php:35
+msgid "Super Element Dashboard"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Super Element is a feature-rich Elementor widget plugin for WordPress, "
+"offering a seamless drag-and-drop interface for effortless page "
+"customization. Elevate your website design with a diverse set of highly "
+"customizable widgets, making it easy for both beginners and experienced "
+"users to create visually stunning layouts"
+msgstr ""
+
+#: includes/Templates/TemplateApi.php:25
+msgid "Super Element Library"
+msgstr ""
+
+#: includes/Elementor.php:55
+msgid "Super Element Widgets"
+msgstr ""
+
+#: includes/Elementor.php:62
+msgid "Super Element WooCommerce"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:35
+msgid "Super Elements"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:67
+msgid "Super Tab"
+msgstr ""
+
+#: super-elements.php:201
+msgid "Superelements"
+msgstr ""
+
+#. Name of the plugin
+msgid "Superelements - Elementor addons, widgets & templates"
+msgstr ""
+
+#: super-elements.php:84 includes/Traits/ElementorControl/RepeaterTraits.php:91
+msgid "Support"
+msgstr ""
+
+#: includes/Templates/views/template-library-header.php:29
+#: includes/Templates/views/template-library-header.php:30
+msgid "Sync Library"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:613
+msgid "Tab container"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:549
+msgid "Tab Content Style"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:633
+#: includes/Elementor/Tab/Tab.php:199
+msgid "Tab Item"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:276
+msgid "Tab Item Active"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:466
+msgid "Tab Item Icon"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:137
+msgid "Tab Item Style"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:219
+#: includes/Elementor/Tab/Tab.php:533
+msgid "Tab Panel Style"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:236
+msgid "Tab Panel Text Style"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:131
+msgid "Tab Settings"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:114
+msgid "Tab Style"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:130
+#: includes/Elementor/PricingTabs/PricingTabs.php:377
+msgid "Tab Title"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:152
+msgid "Tab Wrapper"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:183
+msgid "Table"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:206
+#: includes/Elementor/Cart/Cart.php:139
+msgid "Table Body"
+msgstr ""
+
+#: includes/Elementor/AdditionalInformation/AdditionalInformation.php:145
+msgid "Table Data Style"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:222
+msgid "Table Footer"
+msgstr ""
+
+#: includes/Elementor/Cart/Cart.php:124
+msgid "Table Head"
+msgstr ""
+
+#: includes/Elementor/CheckOut/CheckOut.php:191
+msgid "Table Header"
+msgstr ""
+
+#: includes/Elementor/AdditionalInformation/AdditionalInformation.php:127
+msgid "Table Heading Style"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:105
+msgid "Tabs & Accordions"
+msgstr ""
+
+#: includes/Elementor/Team/Team.php:66 includes/Elementor/Team/Team.php:129
+msgid "Team"
+msgstr ""
+
+#: includes/Templates/TemplateApi.php:171
+msgid "Template does not have any content"
+msgstr ""
+
+#: includes/Templates/TemplateImport.php:37
+msgid "Template id missing"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:125
+msgid "Terms of Use "
+msgstr ""
+
+#: includes/Generator.php:38
+msgid "Testimonial"
+msgstr ""
+
+#: includes/Generator.php:39 includes/Elementor/Testimonial/Testimonial.php:68
+msgid "Testimonials"
+msgstr ""
+
+#: includes/Admin/CMB2.php:49
+msgid "Testimonials Info"
+msgstr ""
+
+#: includes/Elementor/Testimonial/Testimonial.php:136
+msgid "Testimonials Settings"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:17
+#: includes/Elementor/PricingTabs/PricingTabs.php:200
+#: includes/Elementor/PricingTabs/PricingTabs.php:444
+#: includes/Elementor/Menu/Menu.php:146
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:144
+#: includes/Elementor/Pricing/Pricing.php:168
+msgid "Text"
+msgstr ""
+
+#: includes/Elementor/ProductRating/ProductRating.php:140
+msgid "Text "
+msgstr ""
+
+#: includes/Traits/ElementorControl/TextTraits.php:40
+msgid "Text Align"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:261
+#: includes/Traits/ElementorControl/ButtonTraits.php:309
+#: includes/Elementor/ProductMeta/ProductMeta.php:150
+msgid "Text Color"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:868
+msgid "Text Padding"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:733
+msgid "Text Post"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:756
+msgid "Text Post Title"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:143
+msgid "Text Typography"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:232
+msgid "Textarea Style"
+msgstr ""
+
+#: includes/Elementor/FancyTitle/FancyTitle.php:146
+#: includes/Elementor/FancyTitle/FancyTitle.php:159
+msgid "The proper business solution for your developing business"
+msgstr ""
+
+#: includes/Ajax.php:144
+msgid ""
+"The subscription has not been successful. Kindly verify your email and "
+"attempt the process once more"
+msgstr ""
+
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:125
+msgid ""
+"This form sends data to Mailchimp for managing subscriptions. Please review "
+"Mailchimp's ."
+msgstr ""
+
+#: includes/Elementor/ProductShortDescriptions/ProductShortDescriptions.php:129
+msgid "This is a simple product."
+msgstr ""
+
+#: includes/Elementor/Notice/view.php:7
+msgid ""
+"This is an example of a WooCommerce notice. (You won't see this while "
+"previewing your site.)"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:390
+#: includes/Modules/AnimatedImage/AnimatedImage.php:183
+msgid "Tilt"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:64
+msgid "Timeline"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:122
+msgid "Timeline Content"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:149
+msgid "Timeline Count"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:158
+msgid "Timeline Image"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:308
+msgid "Timeline Image Style"
+msgstr ""
+
+#: includes/Elementor/Timeline/Timeline.php:131
+msgid "Timeline Title"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ProductsControlsTraits.php:87
+#: includes/Traits/ElementorControl/HeadingTraits.php:29
+#: includes/Traits/ElementorControl/AccordionTraits.php:26
+#: includes/Traits/ElementorControl/RepeaterTraits.php:17
+#: includes/Elementor/Accordions/Accordions.php:165
+#: includes/Elementor/Posts/Posts.php:276
+#: includes/Elementor/Products/Products.php:208
+#: includes/Elementor/FancyTitle/FancyTitle.php:123
+#: includes/Elementor/FancyTitle/FancyTitle.php:208
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:171
+#: includes/Elementor/SubscriptionForm/SubscriptionForm.php:220
+#: includes/Elementor/IconBox/IconBox.php:139
+#: includes/Elementor/IconBox/IconBox.php:141
+#: includes/Elementor/IconBox/IconBox.php:595
+#: includes/Elementor/MiniCart/MiniCart.php:553
+#: includes/Elementor/Timeline/Timeline.php:129
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:165
+msgid "Title"
+msgstr ""
+
+#: includes/Elementor/ProductTabs/ProductTabs.php:243
+#: includes/Elementor/ProductUpsells/ProductUpsells.php:136
+#: includes/Elementor/RelatedProducts/RelatedProducts.php:135
+msgid "Title "
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:238
+#: includes/Elementor/PricingTabs/PricingTabs.php:246
+#: includes/Elementor/PricingTabs/PricingTabs.php:254
+#: includes/Elementor/PricingTabs/PricingTabs.php:482
+#: includes/Elementor/PricingTabs/PricingTabs.php:490
+#: includes/Elementor/PricingTabs/PricingTabs.php:498
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:398
+msgid "Title #1"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:242
+#: includes/Elementor/PricingTabs/PricingTabs.php:250
+#: includes/Elementor/PricingTabs/PricingTabs.php:258
+#: includes/Elementor/PricingTabs/PricingTabs.php:486
+#: includes/Elementor/PricingTabs/PricingTabs.php:494
+#: includes/Elementor/PricingTabs/PricingTabs.php:502
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:402
+msgid "Title #2"
+msgstr ""
+
+#: includes/Elementor/AdditionalInformation/AdditionalInformation.php:111
+#: includes/Elementor/Team/Team.php:341
+#: includes/Elementor/Testimonial/Testimonial.php:296
+#: includes/Elementor/Timeline/Timeline.php:273
+msgid "Title Style"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:309
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:218
+#: includes/Elementor/Timeline/Timeline.php:190
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:249
+#: includes/Modules/AnimatedImage/AnimatedImage.php:81
+msgid "Top"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:347
+msgid "Top Position"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:660
+msgid "Total Prices"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:389
+#: includes/Modules/AnimatedImage/AnimatedImage.php:182
+msgid "Translate"
+msgstr ""
+
+#: includes/Elementor/Tab/Tab.php:440
+msgid "Translate X Position"
+msgstr ""
+
+#: includes/Templates/TemplatesInit.php:44
+msgid "Try different category or sync for new templates."
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:83
+msgid "Tutorials"
+msgstr ""
+
+#: includes/Generator.php:52
+#: includes/Traits/ElementorControl/ButtonTraits.php:28
+msgid "Type"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:236
+msgid "Type your description here"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:184
+msgid "Type your empty text"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:168
+msgid "Type your title here"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:202
+#: includes/Elementor/PricingTabs/PricingTabs.php:446
+#: includes/Elementor/Pricing/Pricing.php:170
+msgid "Ultimate access to all course, exercises and assessments"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:34
+msgid "Unleash the power of Elementor"
+msgstr ""
+
+#: includes/Traits/ElementorControl/IconUploadTraits.php:18
+msgid "Upload Icon"
+msgstr ""
+
+#: includes/Traits/ElementorControl/RepeaterTraits.php:68
+msgid "Use Image"
+msgstr ""
+
+#: includes/Elementor/CustomAddToCart/CustomAddToCart.php:167
+msgid "Variations Heading"
+msgstr ""
+
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:74
+msgid "Video PopUp"
+msgstr ""
+
+#: includes/Admin/views/dashboard.php:84
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:164
+#: includes/Elementor/ProductMeta/ProductMeta.php:116
+#: includes/Elementor/ProductRating/ProductRating.php:114
+msgid "View"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:35
+msgid "Warning"
+msgstr ""
+
+#: includes/Traits/ElementorControl/AccordionTraits.php:28
+msgid "WHY MUST I MAKE PAYMENT IMMEDIATELY AT CHECKOUT?"
+msgstr ""
+
+#: includes/Traits/ElementorControl/AccordionTraits.php:53
+msgid "Why must I make payment immediately at checkout?"
+msgstr ""
+
+#: includes/Admin/Menu.php:37 includes/Admin/views/widgets.php:29
+msgid "Widgets"
+msgstr ""
+
+#: includes/Traits/ElementorControl/ButtonTraits.php:201
+#: includes/Traits/ElementorControl/WidthHeightTraits.php:22
+#: includes/Elementor/IconBox/IconBox.php:476
+#: includes/Elementor/MiniCart/MiniCart.php:237
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:335
+#: includes/Modules/AnimatedImage/AnimatedImage.php:134
+msgid "Width"
+msgstr ""
+
+#: includes/Elementor/WooCommerceBreadcrumbs/WooCommerceBreadcrumbs.php:51
+msgid "WooCommerce Breadcrumbs"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:97
+msgid "WooCommerce Widgets"
+msgstr ""
+
+#: includes/Elementor/AddToCart/view.php:16
+msgid "WordPress Pennant quantity"
+msgstr ""
+
+#: includes/Elementor/ProductMeta/ProductMeta.php:200
+msgid "wp-pennant"
+msgstr ""
+
+#: includes/Elementor/MiniCart/MiniCart.php:628
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:217
+msgid "Wrapper"
+msgstr ""
+
+#: includes/Elementor/IconBox/IconBox.php:234
+msgid "Wrapper Link"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:231
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:257
+#: includes/Modules/AnimatedImage/AnimatedImage.php:94
+msgid "X Position"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:319
+msgid "X position"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:341
+msgid "X Position From Left"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:367
+msgid "X Position From Right"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:305
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:280
+#: includes/Elementor/Menu/Menu.php:360
+msgid "X-Position"
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:283
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:309
+#: includes/Modules/AnimatedImage/AnimatedImage.php:114
+msgid "Y Position"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:245
+msgid "Y position"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:293
+msgid "Y Position From Bottom"
+msgstr ""
+
+#: includes/Elementor/ImageHotspot/ImageHotspot.php:267
+msgid "Y Position From Top"
+msgstr ""
+
+#: includes/Elementor/ContactForm/ContactForm.php:329
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:304
+#: includes/Elementor/Menu/Menu.php:384
+msgid "Y-Position"
+msgstr ""
+
+#: includes/Elementor/PricingTabs/PricingTabs.php:379
+msgid "Yearly Plan"
+msgstr ""
+
+#: includes/Elementor/Posts/Posts.php:223
+#: includes/Elementor/IconBox/IconBox.php:236
+#: includes/Elementor/IconBox/IconBox.php:265
+#: includes/Elementor/VideoPopUp/VideoPopUp.php:202
+#: includes/Elementor/Team/Team.php:166 includes/Elementor/Menu/Menu.php:113
+msgid "Yes"
+msgstr ""
+
+#: includes/Admin/views/widgets.php:60
+msgid ""
+"You can disable the elements you are not using on your site. That will "
+"disable all associated assets of those widgets to improve your site loading "
+"speed."
+msgstr ""
+
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:165
+#: includes/Elementor/AnimatedImage/AnimatedImage.php:398
+#: includes/Modules/AnimatedImage/AnimatedImage.php:191
+msgid "z-index"
+msgstr ""

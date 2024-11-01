@@ -1,0 +1,73 @@
+// animation classNames
+
+.se-animate-spin {
+  animation: se-animation-spin 10s linear infinite;
+}
+
+.se-animate-translate {
+  animation: animation-translate 8s linear infinite;
+}
+
+.se-animate-tilt {
+  animation: animation-tilt 5s ease-out infinite;
+}
+
+// keyframes start here
+// ======================
+
+@keyframes se-animation-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animation-translate {
+  0% {
+    transform: translateY(0px) translateX(0) rotate(0);
+  }
+
+  30% {
+    transform: translateY(30px) translateX(30px) rotate(15deg);
+    transform-origin: center center;
+  }
+
+  50% {
+    transform: translateY(50px) translateX(50px) rotate(45deg);
+    transform-origin: right bottom;
+  }
+
+  80% {
+    transform: translateY(30px) translateX(30px) rotate(15deg);
+    transform-origin: left top;
+  }
+
+  100% {
+    transform: translateY(0px) translateX(0) rotate(0);
+    transform-origin: center center;
+  }
+}
+
+@keyframes animation-tilt {
+  0% {
+    transform: rotate3d(0, 1, 0, 0deg);
+  }
+
+  30% {
+    transform: rotate3d(0, 0, 1, 5deg);
+  }
+
+  60% {
+    transform: rotate3d(1, 0, 0, 0deg);
+  }
+
+  80% {
+    transform: rotate3d(0, 0, 1, 5deg);
+  }
+
+  100% {
+    transform: rotate3d(0, 1, 0, 0deg);
+  }
+}

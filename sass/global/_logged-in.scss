@@ -1,0 +1,25 @@
+/* ============================= */
+/* if wp logged-in style start  */
+/* =========================== */
+body {
+  &.admin-bar {
+    // header style change
+    .primary-navigation-menu {
+      top: 46px;
+      @media screen and (min-width: 782px) {
+        top: 32px;
+      }
+    }
+    // header small screen nav drawer style change
+    .se-drawer-wrapper {
+      top: 46px;
+      @media screen and (min-width: 782px) {
+        top: 32px;
+      }
+    }
+  }
+}
+
+/* =========================== */
+/* if wp logged-in style end  */
+/* ========================= */

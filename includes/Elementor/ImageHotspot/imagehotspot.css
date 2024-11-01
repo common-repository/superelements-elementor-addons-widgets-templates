@@ -1,0 +1,5 @@
+
+.pointer:hover> .pointer-content {
+   opacity: 1;
+   visibility: visible;
+}

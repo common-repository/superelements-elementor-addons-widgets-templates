@@ -1,0 +1,218 @@
+body.se .woocommerce-tabs ul.tabs {
+  float: none;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  border: none;
+  width: 100%;
+  position: relative;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+body.se .woocommerce-tabs ul.tabs li {
+  flex-shrink: 0;
+}
+
+.woocommerce-tabs {
+  padding: 0;
+}
+
+body.se.single-product #reviews .commentlist li .avatar {
+  margin-right: 0;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs::before,
+.woocommerce-tabs ul.tabs::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  border-bottom: 1px solid var(--brand-color);
+  z-index: -1;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+  padding: 0;
+  border: none;
+  margin-right: 0;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+  padding: 12px 22px;
+  color: #ffffff;
+  background-color: var(--brand-color);
+  border: none;
+  border-radius: 4px 4px 0 0;
+  border-bottom: 0px;
+  font-size: 16px;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:focus {
+  outline: none;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+  color: var(--brand-color);
+  background-color: #ffffff;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li::after,
+.woocommerce div.product .woocommerce-tabs ul.tabs li::before {
+  display: none;
+}
+
+/* comment container  */
+.woocommerce #reviews #comments ol.commentlist li .comment_container {
+  display: flex;
+}
+
+.woocommerce-js #reviews #comments ol.commentlist {
+  padding-left: 0;
+}
+
+/* commented user  */
+.woocommerce #reviews #comments ol.commentlist li img.avatar {
+  position: static;
+  float: none;
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+}
+
+/* comment text container  */
+.se.woocommerce #reviews #comments ol.commentlist li .comment_container .comment-text {
+  margin: 0;
+  margin-left: 24px;
+  width: 100%;
+}
+
+/* comment ratings  */
+.se-product-tab-container .comment_container .star-rating {
+  float: none;
+}
+.se-product-tab-container .comment_container .star-rating::before {
+  display: none;
+}
+
+/* panel default styles  */
+body.se .woocommerce-tabs .panel {
+  float: none;
+  width: 100%;
+  margin: 0;
+}
+/* description tab default style  */
+.woocommerce-Tabs-panel h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--brand-color);
+  margin-top: 24px;
+}
+
+.woocommerce-Tabs-panel p {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--brand-color);
+  line-height: 1.8;
+}
+
+/* additional information default style  */
+.woocommerce-Tabs-panel table.shop_attributes td,
+.woocommerce-Tabs-panel table.shop_attributes th,
+.woocommerce-Tabs-panel table.shop_attributes {
+  border: none;
+  vertical-align: middle;
+  color: var(--brand-color);
+}
+
+.woocommerce-Tabs-panel table.shop_attributes td {
+  padding-left: 22px;
+  border-left: 1px solid var(--brand-color);
+}
+
+/* review tab default style  */
+.woocommerce #reviews #comments ol.commentlist li {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 18px;
+}
+.woocommerce #reviews #comments ol.commentlist li .comment_container .comment-text {
+  border: none;
+  padding: 0;
+}
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta {
+  margin: 0;
+  color: var(--brand-color);
+}
+
+/* comment reply title  */
+.comment-reply-title {
+  color: var(--brand-color);
+  margin-bottom: 12px;
+  display: inline-block;
+}
+
+/* comment box  */
+.woocommerce #review_form #respond textarea {
+  box-shadow: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  outline: none;
+  background-color: transparent;
+  padding: 16px;
+  color: var(--brand-color);
+}
+
+.woocommerce #review_form #respond textarea:focus-visible {
+  box-shadow: none;
+  outline: none;
+}
+
+/* review star style  */
+.woocommerce #review_form #respond p a {
+  color: var(--brand-color);
+}
+
+/* review submit button style  */
+.se-product-tab-container #review_form #respond .form-submit input {
+  font-size: 16px;
+  font-weight: 500;
+  width: 140px;
+  padding: 16px;
+  border-radius: 8px;
+  justify-content: center;
+}
+
+.se-product-tab-container #respond {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* avada theme  */
+.woocommerce-tabs ul.tabs li a {
+  display: inline-block;
+  padding: 12px 20px;
+  color: #ffffff;
+  background-color: var(--brand-color);
+  border: 1px solid var(--brand-color);
+  border-bottom: 0px;
+  border-radius: 8px 8px 0 0;
+}
+.woocommerce-tabs ul.tabs li.active a {
+  background-color: #ffffff;
+  color: var(--brand-color);
+  border: 1px solid var(--brand-color);
+  border-bottom: 0px;
+}
+
+/* store front theme  */
+.woocommerce-tabs ul.tabs li a:focus {
+  outline: none;
+}
+.woocommerce-tabs ul.tabs li.active::after {
+  display: none;
+}

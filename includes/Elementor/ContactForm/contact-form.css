@@ -1,0 +1,63 @@
+.se-contact-form form p {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.se-contact-form p label,
+.se-contact-form p.label {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--brand-color);
+}
+
+.se-contact-form p textarea,
+.se-contact-form p input:not([type="submit"]) {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--brand-color);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-top: 8px;
+  margin-bottom: 32px;
+  background-color: transparent;
+}
+
+.se-contact-form p textarea:focus,
+.se-contact-form p input:not([type="submit"]):focus {
+  border-color: var(--border);
+}
+
+/* submit button  */
+.se-contact-form p input[type="submit"] {
+  background-color: var(--brand-color);
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.se-contact-form p .wpcf7-spinner {
+  margin: 0;
+  margin-top: 12px;
+}
+
+/* form submit error or success msg  */
+.se-contact-form form.sent .wpcf7-response-output,
+.se-contact-form form.invalid .wpcf7-response-output {
+  border: 1px solid var(--brand-color);
+  border-left: 5px solid var(--brand-color);
+  border-radius: 6px;
+  padding: 12px;
+}
+
+/* input and textarea error text style  */
+.se-contact-form form p .wpcf7-not-valid-tip {
+  position: absolute;
+  left: 0;
+  bottom: 12px;
+  font-size: 12px;
+}

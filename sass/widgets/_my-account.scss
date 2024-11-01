@@ -1,0 +1,210 @@
+.se-my-account-wrapper {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--brand-color);
+  display: flex;
+  gap: 32px;
+  @media (max-width: 767px) {
+    flex-direction: column;
+  }
+  nav.woocommerce-MyAccount-navigation {
+    float: none;
+    ul {
+      @media (max-width: 767px) {
+        display: flex;
+        align-items: center;
+        overflow-x: auto;
+        overflow-y: hidden;
+        padding: 8px 4px;
+        max-width: 100%;
+      }
+      li {
+        &:not(:last-child) {
+          margin-bottom: 4px;
+          @media (max-width: 767px) {
+            margin-bottom: 0;
+          }
+        }
+        @media (max-width: 767px) {
+          flex-shrink: 0;
+        }
+        a {
+          font-size: inherit;
+          font-weight: inherit;
+          color: inherit;
+          padding: 12px 24px;
+          display: block;
+          color: inherit;
+          &:hover {
+            background-color: #11182721;
+            @media (max-width: 767px) {
+              background-color: #ffffff;
+              box-shadow: 0 2px 8px 0 #11182721;
+              border-radius: 6px;
+            }
+          }
+          @media (max-width: 767px) {
+            padding: 8px 16px;
+          }
+        }
+        &.is-active {
+          a {
+            background-color: #11182721;
+            @media (max-width: 767px) {
+              background-color: #ffffff;
+              box-shadow: 0 2px 8px 0 #11182721;
+              border-radius: 6px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .woocommerce-MyAccount-content {
+    // dashboard page
+    > p {
+      a {
+        color: inherit;
+        text-decoration: underline;
+      }
+    }
+
+    // orders page
+    table.woocommerce-orders-table {
+      thead {
+        tr {
+          th {
+            border: none;
+            background-color: #f3f4f6;
+          }
+        }
+      }
+      tbody {
+        tr {
+          td {
+            text-align: center;
+            border: none;
+            background-color: transparent;
+            border-bottom: 1px solid #9292923a;
+            a.view {
+              display: inline-block;
+              padding: 8px 16px;
+              border: 1px solid #929292;
+              border-radius: 99px;
+            }
+          }
+        }
+      }
+    }
+
+    // order details page
+    .woocommerce-order-details {
+      h2 {
+        font-size: 22px;
+      }
+      table.order_details {
+        thead {
+          tr {
+            th {
+              text-align: start;
+            }
+          }
+        }
+        tfoot {
+          display: block;
+          margin-top: 22px;
+          margin-left: auto;
+          tr {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            th,
+            td {
+              text-align: end;
+              border: none;
+              padding: 6px 0;
+            }
+          }
+        }
+      }
+    }
+    .woocommerce-customer-details {
+      margin-top: 32px;
+      h2 {
+        font-size: 22px;
+      }
+      address {
+        border: 1px solid var(--brand-color);
+        border-radius: 6px;
+        padding: 16px;
+      }
+    }
+
+    // downloads page
+    .wc-block-components-notice-banner {
+      &.is-info {
+        background-color: transparent;
+        border-color: var(--brand-color);
+        svg {
+          background-color: var(--brand-color);
+        }
+        .wc-block-components-notice-banner__content {
+          color: var(--brand-color);
+          a {
+            opacity: 1;
+            color: inherit;
+            &:hover {
+              opacity: 0.7;
+            }
+          }
+        }
+      }
+    }
+
+    // addresses page
+    .woocommerce-Addresses {
+      header {
+        margin-bottom: 10px;
+        position: relative;
+        h3 {
+          font-size: 22px;
+          margin: 0;
+        }
+        a.edit {
+          font-size: 14px;
+          display: inline-block;
+          transform: translateY(4px);
+          position: relative;
+          color: var(--brand-color);
+          &::after {
+            content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' %3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 0 1 1.13-1.897L16.863 4.487Zm0 0L19.5 7.125' /%3E%3C/svg%3E%0A");
+            position: absolute;
+            inset-inline-start: -20px;
+            top: 50%;
+            transform: translateY(-60%);
+            width: 14px;
+            height: 14px;
+          }
+        }
+      }
+      address {
+        border: 1px solid var(--brand-color);
+        border-radius: 6px;
+        padding: 16px;
+      }
+    }
+    > form {
+      h3 {
+        font-size: 22px;
+      }
+    }
+
+    // edit account page
+    .edit-account {
+      fieldset {
+        padding: 16px 0;
+      }
+    }
+  }
+}

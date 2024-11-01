@@ -1,0 +1,6 @@
+.woocommerce-notices-wrapper,
+.woocommerce-message,
+.woocommerce-error,
+.woocommerce-info {
+	display: none;
+}

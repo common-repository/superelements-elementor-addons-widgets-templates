@@ -1,0 +1,70 @@
+.woocommerce-page div.product div.images {
+  width: 100%;
+  float: none;
+}
+
+body.single-product.se div.product .woocommerce-product-gallery {
+  width: 100%;
+  float: none;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin: 0;
+  overflow: hidden;
+}
+
+body.single-product.se
+  div.product
+  .woocommerce-product-gallery
+  .woocommerce-product-gallery__image
+  img {
+  width: 100%;
+}
+
+/* frontend view css fix  */
+.se-product-image .woocommerce-product-gallery {
+  position: relative;
+}
+
+/* modal view button  */
+.se-product-image .woocommerce-product-gallery__trigger {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.se-product-image .woocommerce-product-gallery__wrapper a img {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* control nav  */
+.se-product-image .flex-control-nav {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 16px;
+  overflow: auto;
+}
+
+.se-product-image .flex-control-nav li {
+  width: 160px;
+  height: auto;
+  aspect-ratio: 1/1;
+  flex-shrink: 0;
+}
+.se-product-image .flex-control-nav li img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* avada product gallery  */
+.avada-product-gallery {
+  display: block;
+}

@@ -1,0 +1,43 @@
+/* if view is inline  */
+.se-product-meta.inline .product_meta {
+  align-items: center;
+}
+
+/* if view is stacked  */
+.se-product-meta.stacked .product_meta {
+  flex-direction: column;
+}
+
+/* individual item style  */
+.se-product-meta .product_meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.se-product-meta .product_meta > span {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  color: var(--brand-color);
+}
+
+.se-product-meta .product_meta > span a {
+  color: var(--brand-color);
+  text-decoration: underline;
+}
+
+.se-product-meta .product_meta > span a:not(:last-child),
+.se-product-meta .product_meta > span span:not(:last-child) {
+  margin-right: 4px;
+}
+
+.se-product-meta .product_meta > span a:not(:nth-child(1)),
+.se-product-meta .product_meta > span span:not(:nth-child(1)) {
+  margin-left: 12px;
+}
+
+.se-product-meta .product_meta > span a:nth-child(1),
+.se-product-meta .product_meta > span span:nth-child(1) {
+  margin-left: 18px;
+}

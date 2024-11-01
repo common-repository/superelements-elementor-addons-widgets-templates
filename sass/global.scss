@@ -1,0 +1,13 @@
+@import "abstracts/media-queries";
+
+@import "global/base-styles";
+@import "global/logged-in.scss";
+@import "global/animation.scss";
+@import "global/menu";
+@import "global/select2";
+
+// widgets default css
+@import "widgets/my-account";
+@import "widgets/cart";
+@import "widgets/checkout";
+@import "widgets/notice";

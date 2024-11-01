@@ -1,0 +1,143 @@
+/* form area  */
+.woocommerce div.product .add-to-cart form.cart {
+  margin-bottom: 0;
+}
+
+.add-to-cart form.cart::before,
+.add-to-cart form.cart::after {
+  display: none !important;
+}
+
+.add-to-cart form.cart {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+}
+
+/* quantity area  */
+.add-to-cart .quantity {
+  max-width: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0;
+  position: relative;
+  float: none !important;
+  margin: 0 !important;
+}
+
+/* quantity input  */
+.add-to-cart .quantity input.qty {
+  flex-grow: 1;
+  padding: 0;
+  text-align: center;
+  outline: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 0;
+  height: 48px;
+  background-color: #ffffff;
+  position: static;
+  border: 1px solid var(--brand-color);
+  border-left: 0px;
+  border-right: 0px;
+}
+
+/* quantity increment and decrement buttons  */
+.se .add-to-cart .quantity-btn {
+  transition: all 0.3s ease;
+  cursor: pointer;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--brand-color);
+  height: 48px;
+  width: 48px;
+}
+
+.add-to-cart .quantity-btn.quantity-btn-down {
+  border-radius: 8px 0px 0px 8px;
+}
+.add-to-cart .quantity-btn.quantity-btn-up {
+  border-radius: 0px 8px 8px 0;
+}
+
+.add-to-cart .quantity-btn svg {
+  width: 24px;
+  height: 24px;
+}
+
+.add-to-cart .quantity-btn:hover {
+  color: #ffffff;
+  background-color: var(--brand-color);
+}
+
+/* add to cart button  */
+.se .add-to-cart .cart .single_add_to_cart_button {
+  outline: none;
+  float: none !important;
+}
+
+body.se .add-to-cart form.cart .button {
+  margin-bottom: 0;
+  width: 100%;
+}
+
+.add-to-cart .cart > button.alt {
+  background-color: var(--brand-color);
+  height: 50px;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 0 24px;
+  font-size: 16px;
+  font-weight: 500;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-to-cart .cart > button.alt:hover {
+  background-color: var(--brand-color);
+}
+
+/* turbo theme  */
+.turbo-product-page div.product form.cart div.quantity input.qty {
+  width: 100%;
+  margin-left: 0;
+  border-color: var(--brand-color);
+  border-left: none;
+  border-right: none;
+}
+
+/* chawkbazar theme  */
+.chawkbazar-woocommerce.woocommerce:not(.archive) ul.products li.product {
+  width: 100%;
+}
+
+.chawkbazar-chlorine-product-card {
+  overflow: visible;
+}
+
+/* divi theme  */
+.woocommerce div.product form.cart div.quantity,
+.woocommerce-page div.product form.cart div.quantity {
+  width: 100%;
+}
+
+.woocommerce ul.products.columns-3 li.product,
+.woocommerce-page ul.products.columns-3 li.product {
+  width: 100%;
+}
+
+/* avada theme  */
+.fusion-body .quantity input.minus,
+.fusion-body .quantity input.plus {
+  display: none;
+}
+
+.fusion-body .quantity {
+  border: none;
+}

@@ -1,0 +1,165 @@
+nav.horizontal {
+  div {
+    > ul.menu {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 0;
+      > li.menu-item-has-children {
+        position: relative;
+        > a {
+          display: inline-block;
+        }
+        &:hover {
+          > ul.dropdown-menu {
+            opacity: 1;
+            visibility: visible;
+            margin-top: 0;
+          }
+        }
+
+        > ul.dropdown-menu {
+          opacity: 0;
+          visibility: hidden;
+          position: absolute;
+          left: 0;
+          top: 100%;
+          margin-top: 32px;
+          padding: 20px;
+          background-color: #ffffff;
+          min-width: 180px;
+          box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+          border-radius: 6px;
+          transition: all 0.3s ease;
+          > li.menu-item {
+            &:not(:last-child) {
+              margin-bottom: 12px;
+            }
+            > a {
+              display: block;
+            }
+          }
+        }
+      }
+
+      > li.has-mega-menu {
+        position: relative;
+        > a {
+          display: inline-block;
+        }
+        &:hover {
+          > .se-mega-menu {
+            opacity: 1;
+            z-index: 1;
+            transform: translateY(0px);
+            visibility: visible;
+          }
+        }
+        > .se-mega-menu {
+          position: absolute;
+          left: -50px;
+          top: 100%;
+          transform: translateY(20px);
+          opacity: 0;
+          z-index: -1;
+          visibility: hidden;
+          transition: all 0.3s ease;
+          width: 768px;
+        }
+      }
+    }
+  }
+}
+
+nav.vertical {
+  > div {
+    > ul {
+      padding: 0;
+      > li {
+        > a {
+          display: block;
+        }
+        &.menu-item-has-children {
+          position: relative;
+          .dropdown-arrow {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 24px;
+            height: 24px;
+            border: 1px solid var(--brand-color);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            &:hover {
+              background-color: var(--brand-color);
+              i {
+                border-color: transparent #ffffff #ffffff transparent;
+              }
+            }
+            i {
+              width: 9px;
+              height: 9px;
+              border: 2px solid;
+              border-color: transparent var(--brand-color) var(--brand-color) transparent;
+              border-radius: 2px;
+              transform: translateY(-2px) rotate(45deg);
+            }
+          }
+
+          > .dropdown-menu {
+            padding-left: 16px;
+            display: none;
+            > li {
+              margin-bottom: 16px;
+            }
+          }
+        }
+
+        &.has-mega-menu {
+          position: relative;
+
+          .dropdown-arrow {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 24px;
+            height: 24px;
+            border: 1px solid var(--brand-color);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            &:hover {
+              background-color: var(--brand-color);
+              i {
+                border-color: transparent #ffffff #ffffff transparent;
+              }
+            }
+            i {
+              width: 9px;
+              height: 9px;
+              border: 2px solid;
+              border-color: transparent var(--brand-color) var(--brand-color) transparent;
+              border-radius: 2px;
+              transform: translateY(-2px) rotate(45deg);
+            }
+          }
+          .se-mega-menu {
+            display: none;
+            > div {
+              > div {
+                @media (max-width: 1023px) {
+                  box-shadow: none !important;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

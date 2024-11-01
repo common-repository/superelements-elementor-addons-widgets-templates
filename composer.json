@@ -1,0 +1,38 @@
+{
+  "name": "wildrain/super-element",
+  "description": "Elementor powered super element",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "wildrain",
+      "email": "roman@redq.io"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "johnbillion/extended-cpts": "dev-develop",
+    "cmb2/cmb2": "dev-develop",
+    "wp-cli/i18n-command": "^2.0@dev"
+    },
+    "scripts": {
+        "lint:wpcs": "@php ./vendor/squizlabs/php_codesniffer/bin/phpcs",
+        "lint:php": "@php ./vendor/bin/parallel-lint --exclude .git --exclude vendor .",
+        "make-pot": "wp i18n make-pot ./languages/superelements-elementor-addons-widgets-templates.pot"
+    },
+  "autoload": {
+    "classmap": [
+      "includes"
+    ],
+    "psr-4": {
+      "SuperElement\\": "includes/"
+    },
+    "files": [
+      "vendor/cmb2/cmb2/init.php",
+      "includes/functions.php"
+    ]
+  },
+  "config": {
+    "platform-check": false
+  }
+}

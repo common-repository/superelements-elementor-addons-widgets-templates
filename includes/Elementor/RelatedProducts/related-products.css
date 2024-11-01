@@ -1,0 +1,136 @@
+.related.products h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--brand-color);
+  margin-top: 0;
+}
+
+body.se .related.products h2:first-child {
+  text-align: left;
+}
+
+.related.products > ul.products {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 32px;
+}
+
+@media (min-width: 640px) {
+  .related.products > ul.products {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .related.products > ul.products {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1440px) {
+  .related.products > ul.products {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.related.products > .products::before,
+.related.products > .products::after {
+  display: none;
+}
+
+body.se ul.products {
+  margin: 0;
+}
+
+body.se .related ul.products li.product {
+  position: relative;
+  text-align: left;
+  float: none;
+  width: 100% !important;
+  margin: 0;
+  padding: 0;
+}
+
+body.se ul.products li a:focus {
+  outline: none;
+}
+
+.related.products h3 {
+  font-size: 22px;
+}
+.woocommerce span.onsale {
+  line-height: 1;
+  min-height: 1px;
+}
+.woocommerce ul.products li.product .onsale {
+  margin: 0;
+}
+.related.products .onsale {
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: auto;
+  background-color: var(--brand-color);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+}
+
+.woocommerce ul.products li.product .price,
+.related .products .product h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--brand-color);
+}
+
+.related ul.products li.product a.button {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 24px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* avada theme  */
+.related .product-buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.related .product-buttons-container::after,
+.related .product-buttons-container::before {
+  display: none;
+}
+
+.related .product-buttons-container a {
+  float: none;
+  width: 100%;
+  max-width: 100%;
+}
+
+.related .product-buttons-container a::before {
+  position: static;
+  margin-right: 12px;
+}
+
+.related .product-buttons-container a.show_details_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.product .product-buttons .fusion-content-sep {
+  display: none;
+}
+
+.products li .fusion-product-wrapper {
+  border: none;
+}

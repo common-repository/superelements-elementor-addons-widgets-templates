@@ -1,0 +1,29 @@
+/* rating layout style  */
+.se-product-rating.inline .woocommerce-product-rating {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.se-product-rating.stacked .woocommerce-product-rating {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* default styles  */
+body.se.single-product div.product .woocommerce-product-rating {
+  margin-bottom: 0;
+  overflow: hidden;
+}
+
+body.se.single-product div.product .se-product-rating .woocommerce-product-rating::before,
+body.se.single-product div.product .se-product-rating .woocommerce-product-rating::after {
+  display: none;
+}
+
+.se-product-rating .woocommerce-product-rating > a,
+.se-product-rating .woocommerce-product-rating .star-rating {
+  float: none;
+  margin: 0;
+  color: var(--brand-color);
+}

@@ -1,0 +1,93 @@
+.se-checkout-wrapper {
+  .woocommerce {
+    // coupon form
+    .woocommerce-form-coupon-toggle {
+      .woocommerce-info {
+        border-top-color: var(--brand-color);
+        background-color: #f3f4f6;
+        &::before {
+          color: var(--brand-color);
+        }
+        a {
+          color: var(--brand-color);
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .woocommerce-form-coupon {
+      .form-row {
+        width: 49%;
+        button {
+          font-size: 16px;
+          font-weight: 400;
+          padding: 14px 20px;
+          color: #ffffff;
+          background-color: var(--brand-color);
+        }
+      }
+    }
+
+    // checkout review order table
+    .woocommerce-checkout-review-order {
+      table {
+        border: none;
+        border-collapse: collapse;
+      }
+    }
+
+    // checkout payment
+    .woocommerce-checkout-payment {
+      max-width: 600px;
+      margin-left: auto;
+      padding: 22px;
+      &#payment {
+        background-color: #f3f4f6;
+        ul {
+          border: none;
+          li {
+            border-bottom: 1px dashed #929292;
+            padding: 12px 0;
+            input {
+              appearance: none;
+              width: 18px;
+              height: 18px;
+              border: 1px solid #929292;
+              border-radius: 99px;
+              transform: translateY(2px);
+              &:checked {
+                border: 5px solid var(--brand-color);
+              }
+            }
+            label {
+              font-size: 16px;
+              font-weight: 400;
+            }
+            .payment_box {
+              padding: 0;
+              margin-top: 0;
+              background-color: transparent;
+              font-size: 12px;
+              &::before {
+                display: none;
+              }
+            }
+          }
+        }
+        .place-order {
+          a {
+            color: inherit;
+            text-decoration: underline;
+            font-weight: 500;
+          }
+
+          .button {
+            background-color: var(--brand-color);
+            font-weight: 400;
+            padding: 12px 20px;
+          }
+        }
+      }
+    }
+  }
+}

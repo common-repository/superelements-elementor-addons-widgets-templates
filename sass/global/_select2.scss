@@ -1,0 +1,49 @@
+.select2 {
+  &.select2-container {
+    // &--default {
+    // }
+    // &--above {
+    // }
+
+    .selection {
+      .select2-selection {
+        &--single {
+          height: 42px;
+          display: flex;
+          align-items: center;
+        }
+        // &__rendered {
+        // }
+        &__arrow {
+          top: 7px;
+        }
+      }
+    }
+  }
+}
+
+// select2 dropdown list
+.select2-container {
+  //   &--default {
+  //   }
+
+  .select2-dropdown {
+    // .select2-search {
+    //   &--dropdown {
+    //   }
+    //   &__field {
+    //   }
+    // }
+
+    .select2-results {
+      //   &__options {
+      //   }
+
+      &__option {
+        &--highlighted {
+          background-color: var(--brand-color);
+        }
+      }
+    }
+  }
+}

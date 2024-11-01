@@ -1,0 +1,137 @@
+.up-sells.products h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--brand-color);
+  margin-top: 0;
+}
+
+body.se .up-sells.products h2:first-child {
+  text-align: left;
+}
+
+.up-sells.products > ul.products {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 32px;
+  margin-top: 0;
+}
+
+@media screen and (min-width: 640px) {
+  .up-sells.products > ul.products {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .up-sells.products > ul.products {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .up-sells.products > ul.products {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.up-sells.products > .products::before,
+.up-sells.products > .products::after {
+  display: none;
+}
+
+body.se .up-sells ul.products li.product {
+  position: relative;
+  text-align: left;
+  float: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body.se ul.products li a:focus {
+  outline: none;
+}
+
+.upsells.products h3 {
+  font-size: 22px;
+}
+.woocommerce span.onsale {
+  line-height: 1;
+  min-height: 1px;
+}
+.woocommerce ul.products li.product .onsale {
+  margin: 0;
+}
+.up-sells.products .onsale {
+  position: absolute;
+  left: auto;
+  right: 0;
+  top: 0;
+  background-color: var(--brand-color);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 4px 8px;
+  margin: 0;
+}
+
+.woocommerce ul.products li.product .price,
+.up-sells .products .product h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--brand-color);
+}
+
+.up-sells ul.products li.product a.button {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px 24px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* avada theme  */
+.up-sells .product-buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.up-sells .product-buttons-container::after,
+.up-sells .product-buttons-container::before {
+  display: none;
+}
+
+.up-sells .product-buttons-container a {
+  float: none;
+  width: 100%;
+  max-width: 100%;
+}
+
+.up-sells .product-buttons-container a::before {
+  position: static;
+  margin-right: 12px;
+}
+
+.up-sells .product-buttons-container a.show_details_button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.product .product-buttons .fusion-content-sep {
+  display: none;
+}
+
+.products li .fusion-product-wrapper {
+  border: none;
+}
+
+/* store front theme  */
+.storefront-full-width-content .site-main ul.products.columns-4 li.product {
+  width: 100%;
+}

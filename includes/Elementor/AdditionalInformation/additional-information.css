@@ -1,0 +1,25 @@
+/* title style  */
+.se-additional-info h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--brand-color);
+  margin-top: 0;
+}
+
+/* additional information default style  */
+.se-additional-info table.shop_attributes td,
+.se-additional-info table.shop_attributes th,
+.se-additional-info table.shop_attributes {
+  border: none;
+  vertical-align: middle;
+  color: var(--brand-color);
+}
+
+.se-additional-info table.shop_attributes td {
+  padding-left: 22px;
+  border-left: 1px solid var(--brand-color);
+}
+
+.se-additional-info table.shop_attributes th {
+  width: 100px;
+}
